@@ -1,2 +1,4 @@
-# automate_form
-Script intended to automate the filling of a Google form
+# Automate Google Forms filling
+
+Script intended to automate the filling of a Google form using Pyhton with Selenium.
+
